@@ -1,5 +1,5 @@
 # BUSINESS-RULE-REVIEW
-
+ 
 근거: [DECISIONS.md](DECISIONS.md) (D-001~D-020), [PRD.md](PRD.md), [SCREEN-SPEC.md](SCREEN-SPEC.md)
 
 DECISIONS.md의 규칙마다 한 줄씩 적은 검수표이다. 문서만 보고 썼다. 코드는 읽지 않았고 실행도 하지 않았다.
