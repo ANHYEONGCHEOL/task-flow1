@@ -23,7 +23,7 @@ cd frontend && npm install && npm run dev
 브라우저에서 http://localhost:5173 을 연다.
 
 DB 파일 위치는 환경변수 `TASKFLOW_DB`로 바꿀 수 있다.
-
+ 
 ## 테스트 (백엔드)
 ```
 cd backend && uv run python -m unittest discover -s tests -t .
