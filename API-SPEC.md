@@ -1,5 +1,5 @@
 - 상태: 작성 중
-
+ 
 # API-SPEC
 
 근거: [PRD.md](PRD.md), [USER-WORKFLOW.md](USER-WORKFLOW.md), [SCREEN-SPEC.md](SCREEN-SPEC.md), [DECISIONS.md](DECISIONS.md) (D-002~D-012), [ARCHITECTURE.md](ARCHITECTURE.md)(3절, 6절, 7절, 작성 중)
