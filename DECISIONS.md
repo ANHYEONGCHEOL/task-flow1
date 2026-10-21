@@ -1,7 +1,7 @@
 # DECISIONS
 
 근거: [PRODUCT-DIRECTION.md](PRODUCT-DIRECTION.md), [PRD.md](PRD.md), [ARCHITECTURE.md](ARCHITECTURE.md)
-
+ 
 유효 상태: 유효 · 대체됨 · 폐기. 지금 기록한 결정은 모두 '유효'이다.
 
 ## D-001 기술은 표준 경로만 쓴다
