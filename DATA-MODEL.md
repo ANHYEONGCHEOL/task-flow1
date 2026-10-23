@@ -1,5 +1,5 @@
 - 상태: 작성 중
- 
+
 # DATA-MODEL
 
 근거: [PRD.md](PRD.md) (4절), [ARCHITECTURE.md](ARCHITECTURE.md) (4절, 작성 중), [API-SPEC.md](API-SPEC.md), [DECISIONS.md](DECISIONS.md) (D-002~D-012)

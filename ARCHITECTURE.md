@@ -1,5 +1,5 @@
 - 상태: 작성 중
- 
+
 # ARCHITECTURE
 
 근거: [PRD.md](PRD.md), 앞서 정리한 네 범주 표(화면 · API · 저장소 · 공통 검증), [PRODUCT-DIRECTION.md](PRODUCT-DIRECTION.md)
